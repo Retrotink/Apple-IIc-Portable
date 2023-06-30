@@ -16,4 +16,12 @@ While this seems complex, the modification gives us the functionality to power t
 When plugged in, power is drawn from battery while also charging. 
 <br>
 Original Battery pack on Amazon:<br>
-https://www.amazon.com/gp/product/B00ME3ZH7C/ref=ox_sc_saved_image_10?smid=A24OIV2F0TL1K3&psc=1
+
+https://www.amazon.com/gp/product/B00ME3ZH7C/ref=ox_sc_saved_image_10?smid=A24OIV2F0TL1K3&psc=1<br>
+![battery](https://github.com/Retrotink/Apple-IIc-Portable/assets/121696513/a9d3e836-9a1a-4714-a93c-3011239ed3b9)
+<br>
+DIN Connector:<br>
+https://www.amazon.com/gp/product/B07XCSX3JP/ref=ox_sc_saved_image_6?smid=A13GGF3VKVFGBN&psc=1<br>
+![din plugs](https://github.com/Retrotink/Apple-IIc-Portable/assets/121696513/857c583a-b28f-4358-a85d-90f33f17fa44)
+<br>
+
