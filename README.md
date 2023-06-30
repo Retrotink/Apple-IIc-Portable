@@ -35,7 +35,17 @@ https://www.amazon.com/gp/product/B08SC7QD3V/ref=ox_sc_saved_image_7?smid=A4SNXM
 ![lcd](https://github.com/Retrotink/Apple-IIc-Portable/assets/121696513/67a3100f-efa0-427c-bdc9-858c63eba467)
 
 <br>
-The LCD monitor is a $73 Hikity 10 inch LCD that runs on 12V and has VGA, composite and HDMI inputs. <br>
+The LCD monitor is a $73 Hikity 10 inch LCD that runs on 12V and has VGA, BNC, composite and HDMI inputs. <br>
 https://www.amazon.com/gp/product/B077FSR36B/ref=ox_sc_saved_title_9?smid=AZV2Q3JGU683F&psc=1<br>
+It was programmed in 4:3 mode and the the LCD and driver board was removed from the original case.<br>
+The button panel was disconnected from the driver board and set aside. It is not currently installed.<br>
+The 3D design carefully covers the monitor so that on power up, none of the boot graphics from the monitor appear.<br>
+The VGA, BNC and HDMI connectors were removed by desoldering. The 12V connector was retained for easy conntion to the battery circuit.<br>
+<br>
+#Cables
+<br>
+A DB15 cable to composite runs up from that back of the Apple IIc, under the battery container and up into the LCD Panel.<br>
+The Power DIN connector runs up into the battery and connects to the battery circuit.<br>
+A new switch in the power supply turns on both the computer and the monitor with one single throw of the switch<br>
 
 
