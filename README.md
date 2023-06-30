@@ -48,5 +48,9 @@ The VGA, BNC and HDMI connectors were removed by desoldering. The 12V connector 
 A DB15 cable to composite runs up from that back of the Apple IIc, under the battery container and up into the LCD Panel.<br>
 The Power DIN connector runs up into the battery and connects to the battery circuit.<br>
 A new switch in the power supply turns on both the computer and the monitor with one single throw of the switch<br>
+<br>
+
+# The 3D printed Case
+<br>
 
 
