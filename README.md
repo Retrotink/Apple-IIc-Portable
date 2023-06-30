@@ -31,7 +31,8 @@ https://www.amazon.com/gp/product/B08SC7QD3V/ref=ox_sc_saved_image_7?smid=A4SNXM
 <br>
 # The LCD Monitor
 <br>
-![lcd](https://github.com/Retrotink/Apple-IIc-Portable/assets/121696513/4eb4a692-f65e-4de6-82fa-ed2a6e667e9a)
+
+![lcd](https://github.com/Retrotink/Apple-IIc-Portable/assets/121696513/67a3100f-efa0-427c-bdc9-858c63eba467)
 
 <br>
 The LCD monitor is a Hikity 10 inch LCD that runs on 12V and has VGA, composite and HDMI inputs. <br>
