@@ -42,6 +42,7 @@ The button panel was disconnected from the driver board and set aside. It is not
 The 3D design carefully covers the monitor so that on power up, none of the boot graphics from the monitor appear.<br>
 The VGA, BNC and HDMI connectors were removed by desoldering. The 12V connector was retained for easy conntion to the battery circuit.<br>
 <br>
+
 # Cables
 <br>
 A DB15 cable to composite runs up from that back of the Apple IIc, under the battery container and up into the LCD Panel.<br>
