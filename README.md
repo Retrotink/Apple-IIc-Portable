@@ -24,4 +24,9 @@ DIN Connector:<br>
 https://www.amazon.com/gp/product/B07XCSX3JP/ref=ox_sc_saved_image_6?smid=A13GGF3VKVFGBN&psc=1<br>
 ![din plugs](https://github.com/Retrotink/Apple-IIc-Portable/assets/121696513/857c583a-b28f-4358-a85d-90f33f17fa44)
 <br>
+The hinge uses a stainless steel M4 rod that was cut to size and 2 nuts and washers were sourced from Home Depot.<br>
+https://www.amazon.com/gp/product/B08SC7QD3V/ref=ox_sc_saved_image_7?smid=A4SNXMCYCTCYM&psc=1
+<br>
+![rods](https://github.com/Retrotink/Apple-IIc-Portable/assets/121696513/d97e16ef-14a3-426e-b816-7c678ab1d434)
+<br>
 
