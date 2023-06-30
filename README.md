@@ -6,7 +6,7 @@ The primary compenents are right off of Amazon and modified to fit into a case.
 
 # Power Source
 <br>
-The battery power source is a 12000mAh battery pack that has been removed from its original case and modified so that a new
+The battery power source is a $39.99 12000mAh battery pack that has been removed from its original case and modified so that a new
 switch replaces the original. The charging circuit is modified so that when plugged in it is charging but no power comes out
 until the new add-on switch is turned on. The original design would apply power all the time. 
 <br>
@@ -35,7 +35,7 @@ https://www.amazon.com/gp/product/B08SC7QD3V/ref=ox_sc_saved_image_7?smid=A4SNXM
 ![lcd](https://github.com/Retrotink/Apple-IIc-Portable/assets/121696513/67a3100f-efa0-427c-bdc9-858c63eba467)
 
 <br>
-The LCD monitor is a Hikity 10 inch LCD that runs on 12V and has VGA, composite and HDMI inputs. <br>
+The LCD monitor is a $73 Hikity 10 inch LCD that runs on 12V and has VGA, composite and HDMI inputs. <br>
 https://www.amazon.com/gp/product/B077FSR36B/ref=ox_sc_saved_title_9?smid=AZV2Q3JGU683F&psc=1<br>
 
 
