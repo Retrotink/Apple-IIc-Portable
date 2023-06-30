@@ -52,5 +52,10 @@ A new switch in the power supply turns on both the computer and the monitor with
 
 # The 3D printed Case
 <br>
+For the 3D objects a Creality CR10S Pro V2 was used as the printer. It has a glass bed for good adhesion and objects are printed upright.<br>
+The PLA FilaCube $23.97 and is pretty close in color to a retrobright Apple IIc.<br>
+https://www.amazon.com/gp/product/B076Z26NS5/ref=ox_sc_saved_title_1?smid=AFZQIF3WLZ4BA&psc=1<br>
+<br>
 
+![pla](https://github.com/Retrotink/Apple-IIc-Portable/assets/121696513/6c475115-b0e5-4555-ba7e-fc14b3c13fac)
 
