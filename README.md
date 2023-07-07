@@ -7,6 +7,10 @@ Add-on Screen and Battery turns your Apple IIc into a portable computer
 
 
 <br>
+![20230116_085832-980x2016](https://github.com/Retrotink/Apple-IIc-Portable/assets/121696513/be432885-7e8a-430a-9895-46b58a0fcb7e)
+
+
+<br>
 The primary compenents are right off of Amazon and modified to fit into a case. 
 
 # Power Source
