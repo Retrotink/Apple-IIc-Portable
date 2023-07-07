@@ -3,10 +3,14 @@ Add-on Screen and Battery turns your Apple IIc into a portable computer
 ![cropped-826x896](https://github.com/Retrotink/Apple-IIc-Portable/assets/121696513/5617e816-3ae2-4d5a-a302-5a9ac8cbb809)
 <br>
 
+![20230116_085246-490x1008](https://github.com/Retrotink/Apple-IIc-Portable/assets/121696513/fbe1fd83-2cbf-4ec6-bb14-f9ff46d3e347)
+
 
 ![20230116_085238-980x2016-490x1008](https://github.com/Retrotink/Apple-IIc-Portable/assets/121696513/bc73f194-1061-424c-838e-6cef4971505d)
 
 ![20230116_085314-490x1008](https://github.com/Retrotink/Apple-IIc-Portable/assets/121696513/4baa33d8-23e9-44fa-a195-709c11964820)
+
+
 
 
 <br>
