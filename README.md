@@ -37,23 +37,31 @@ When plugged in, power is drawn from battery while also charging.
 Original Battery pack on Amazon:<br>
 
 https://www.amazon.com/gp/product/B00ME3ZH7C/ref=ox_sc_saved_image_10?smid=A24OIV2F0TL1K3&psc=1<br>
-![battery](https://github.com/Retrotink/Apple-IIc-Portable/assets/121696513/a9d3e836-9a1a-4714-a93c-3011239ed3b9)
+
+![power source](https://github.com/Retrotink/Apple-IIc-Portable/assets/121696513/f4ea6d35-5848-4f18-9a1f-e4bbdc6e4a32)
+
 <br>
 DIN Connector:<br>
 https://www.amazon.com/gp/product/B07XCSX3JP/ref=ox_sc_saved_image_6?smid=A13GGF3VKVFGBN&psc=1<br>
-![din plugs](https://github.com/Retrotink/Apple-IIc-Portable/assets/121696513/857c583a-b28f-4358-a85d-90f33f17fa44)
+
+
+![din](https://github.com/Retrotink/Apple-IIc-Portable/assets/121696513/a0f38944-1959-4eda-a1f5-26ec1ac303c1)
+
 <br>
 The hinge uses a stainless steel M4 rod that was cut to size and 2 nuts and washers were sourced from Home Depot.<br>
 https://www.amazon.com/gp/product/B08SC7QD3V/ref=ox_sc_saved_image_7?smid=A4SNXMCYCTCYM&psc=1
 <br>
-![rods](https://github.com/Retrotink/Apple-IIc-Portable/assets/121696513/d97e16ef-14a3-426e-b816-7c678ab1d434)
+![rods](https://github.com/Retrotink/Apple-IIc-Portable/assets/121696513/f123574c-9ded-4c2c-90c2-40387e6c60d9)
+
 <br>
 The 2.1mm power connector is a Mouser.com part 502-721A<br>
-![2 1mm power](https://github.com/Retrotink/Apple-IIc-Portable/assets/121696513/8568b535-69ba-4b3c-8d34-865a5b28b708)
+![power2 1](https://github.com/Retrotink/Apple-IIc-Portable/assets/121696513/c58eb21f-d6b2-4a38-884c-1089abd50237)
+
 <br>
 The power switch is a Mouser.com part 629-GRS-4021-0001<br>
 
-![switch](https://github.com/Retrotink/Apple-IIc-Portable/assets/121696513/13f11f29-1b73-41d5-8f9c-437f35facc00)
+![rocker](https://github.com/Retrotink/Apple-IIc-Portable/assets/121696513/c85d5285-755d-4a01-ba8c-927290de5844)
+
 <br>
 
 
