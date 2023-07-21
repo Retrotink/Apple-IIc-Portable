@@ -70,7 +70,8 @@ The power switch is a Mouser.com part 629-GRS-4021-0001<br>
 # The LCD Monitor
 <br>
 
-![lcd](https://github.com/Retrotink/Apple-IIc-Portable/assets/121696513/67a3100f-efa0-427c-bdc9-858c63eba467)
+
+![lcd](https://github.com/Retrotink/Apple-IIc-Portable/assets/121696513/4548c8fb-a588-41c4-bbf1-a693039c1211)
 
 <br>
 The LCD monitor is a $73 Hikity 10 inch LCD that runs on 12V and has VGA, BNC, composite and HDMI inputs. <br>
@@ -96,5 +97,6 @@ The PLA FilaCube $23.97 and is pretty close in color to a retrobright Apple IIc.
 https://www.amazon.com/gp/product/B076Z26NS5/ref=ox_sc_saved_title_1?smid=AFZQIF3WLZ4BA&psc=1<br>
 <br>
 
-![pla](https://github.com/Retrotink/Apple-IIc-Portable/assets/121696513/6c475115-b0e5-4555-ba7e-fc14b3c13fac)
 
+
+![pla](https://github.com/Retrotink/Apple-IIc-Portable/assets/121696513/3d3dba10-fce4-456b-859f-6af9ac29ff1b)
