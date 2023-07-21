@@ -51,10 +51,12 @@ https://www.amazon.com/gp/product/B07XCSX3JP/ref=ox_sc_saved_image_6?smid=A13GGF
 The hinge uses a stainless steel M4 rod that was cut to size and 2 nuts and washers were sourced from Home Depot.<br>
 https://www.amazon.com/gp/product/B08SC7QD3V/ref=ox_sc_saved_image_7?smid=A4SNXMCYCTCYM&psc=1
 <br>
+
 ![rods](https://github.com/Retrotink/Apple-IIc-Portable/assets/121696513/f123574c-9ded-4c2c-90c2-40387e6c60d9)
 
 <br>
 The 2.1mm power connector is a Mouser.com part 502-721A<br>
+
 ![power2 1](https://github.com/Retrotink/Apple-IIc-Portable/assets/121696513/c58eb21f-d6b2-4a38-884c-1089abd50237)
 
 <br>
